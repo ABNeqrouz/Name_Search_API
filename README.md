@@ -1,3 +1,6 @@
+Name_Search_API
+==================
+
 This is a sample Java / Maven / Spring Boot (version 2.0.0 SNAPSHOT) microservice for person search.
 
 ----------
